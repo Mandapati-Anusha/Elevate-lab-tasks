@@ -20,7 +20,7 @@ A basic java Calculator application that prforms arithmetic operations such as a
 javac Calculator.java  ---for compliation.
 java Calculator ---for run thecomplied class.
 
-##Example Output
+##Example Output:
 Choose an operation: +,-,*,/ 
 +
 Enter the first number
